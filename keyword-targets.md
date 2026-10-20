@@ -55,3 +55,4 @@ Daftar kata kunci target untuk artikel blog. Setiap artikel baru WAJIB target 1 
 | 2026-10-17 | cara membuat toko online sendiri untuk pemula | 2026-10-17-cara-membuat-toko-online-sendiri-untuk-pemula.html |
 | 2026-10-18 | jasa pembuatan landing page | 2026-10-18-jasa-pembuatan-landing-page.html |
 | 2026-10-19 | tips memilih jasa pembuatan website yang bagus | 2026-10-19-tips-memilih-jasa-pembuatan-website-yang-bagus.html |
+| 2026-10-20 | jasa bikin company profile | 2026-10-20-jasa-bikin-company-profile.html |

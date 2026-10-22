@@ -57,3 +57,4 @@ Daftar kata kunci target untuk artikel blog. Setiap artikel baru WAJIB target 1 
 | 2026-10-19 | tips memilih jasa pembuatan website yang bagus | 2026-10-19-tips-memilih-jasa-pembuatan-website-yang-bagus.html |
 | 2026-10-20 | jasa bikin company profile | 2026-10-20-jasa-bikin-company-profile.html |
 | 2026-10-21 | jasa input data excel | 2026-10-21-jasa-input-data-excel.html |
+| 2026-10-22 | jasa kelola shopee tokopedia | 2026-10-22-jasa-kelola-shopee-tokopedia.html |

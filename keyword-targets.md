@@ -60,3 +60,4 @@ Daftar kata kunci target untuk artikel blog. Setiap artikel baru WAJIB target 1 
 | 2026-10-22 | jasa kelola shopee tokopedia | 2026-10-22-jasa-kelola-shopee-tokopedia.html |
 | 2026-10-23 | jasa website jakarta murah | 2026-10-23-jasa-website-jakarta-murah.html |
 | 2026-10-24 | bikin katalog online whatsapp untuk jualan | 2026-10-24-bikin-katalog-online-whatsapp-untuk-jualan.html |
+| 2026-10-25 | jasa penulisan artikel seo | 2026-10-25-jasa-penulisan-artikel-seo.html |

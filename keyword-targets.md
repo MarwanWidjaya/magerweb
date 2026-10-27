@@ -62,3 +62,4 @@ Daftar kata kunci target untuk artikel blog. Setiap artikel baru WAJIB target 1 
 | 2026-10-24 | bikin katalog online whatsapp untuk jualan | 2026-10-24-bikin-katalog-online-whatsapp-untuk-jualan.html |
 | 2026-10-25 | jasa penulisan artikel seo | 2026-10-25-jasa-penulisan-artikel-seo.html |
 | 2026-10-26 | kenapa umkm butuh google business profile | 2026-10-26-kenapa-umkm-butuh-google-business-profile.html |
+| 2026-10-27 | jasa rapiin data excel berantakan | 2026-10-27-jasa-rapiin-data-excel-berantakan.html |
